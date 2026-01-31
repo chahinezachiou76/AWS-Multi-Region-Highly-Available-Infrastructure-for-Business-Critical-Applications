@@ -1,7 +1,10 @@
 #  AWS Multi-Region Highly Available Infrastructure  
 (Terraform | Disaster Recovery | Global Availability | Security | CI/CD)
-## System Architecture
-For a detailed view of our multi-region setup, please refer to the [Architecture Diagram](./multi%20region%20aws.drawio.png).
+<details>
+  <summary><b>Click to view detailed Architecture Diagram</b></summary>
+  <br>
+  <img src="multi region aws.drawio.png" width="100%">
+</details>
 ##  Project Overview
 This project implements a production-ready multi-region cloud architecture on AWS using Terraform (Infrastructure as Code).
 It is designed for business-critical applications that require global availability, disaster recovery, and high resilience.
