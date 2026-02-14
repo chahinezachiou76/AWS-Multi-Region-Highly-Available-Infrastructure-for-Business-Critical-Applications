@@ -3,7 +3,7 @@
 <details>
   <summary><b>Click to view detailed Architecture Diagram</b></summary>
   <br>
-  <img src="multi region aws.drawio.png" width="100%">
+  <img src="multi region.drawio.png" width="100%">
 </details>
 ##  Project Overview
 This project implements a production-ready multi-region cloud architecture on AWS using Terraform (Infrastructure as Code).
